@@ -21,4 +21,3 @@ git add 文件名 将文件名提交到暂存区
 git status 查看当前git的状态
 git rm --cached文件名 表示从暂存区中删除该文件
 hot-fix changed
-rqrq
