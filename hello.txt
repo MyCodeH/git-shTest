@@ -25,5 +25,8 @@ rqrq
 111111111111
 hot-fix
 hot-fix2(最新修改(2i)
+<<<<<<< HEAD
 444444444i
 yyyyyyyyyy
+冲突1
+new-fix2
