@@ -22,11 +22,3 @@ git status 查看当前git的状态
 git rm --cached文件名 表示从暂存区中删除该文件
 hot-fix changed
 rqrq
-111111111111
-hot-fix
-hot-fix2(最新修改(2i)
-<<<<<<< HEAD
-444444444i
-yyyyyyyyyy
-冲突1
-new-fix2
